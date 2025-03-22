@@ -5,30 +5,24 @@ body {
 }
 
 img {
-  border-radius: 50%;
-  border: 4px dotted black;
-  width: 20%;
+  border-radius: 80%;
+  border: 4px dotted white;
+  width: 80%;
 }
 
+  
 .precoserviços {
   text-align: center;
   font-weight: bold;
   color: #ff0000;
 }
 
-.paragDescFlores {
-  text-align: center;
-  font-size: 8px;
-  color: #555;
-}
 
 a {
   color: gray;
 }
 
-a:hover {
-  color: pink;
-}
+
 
 /* Classes */
 
@@ -57,9 +51,9 @@ a:hover {
 }
 
 .foto-e-nome {
-  padding: 80px;
+  padding: 170px;
   text-align: center;
-  font-family: "Dancing Script";
+  font-family: 'Verdana';
   color: white;
 }
 
